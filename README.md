@@ -127,6 +127,7 @@ Three-floor network with routers, switches, wireless and IoT devices.
 
 ### 📬 Let's connect
 
+<a href="https://www.linkedin.com/in/yousef-alqawasmi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yousefqawasmi599@gmail.com"><img src="https://img.shields.io/badge/Email-0F6E56?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="mailto:flowapps.support1@gmail.com"><img src="https://img.shields.io/badge/Flow_Apps-534AB7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://flowapps.gumroad.com"><img src="https://img.shields.io/badge/My_products-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black"/></a>
